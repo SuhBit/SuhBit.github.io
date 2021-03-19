@@ -3433,7 +3433,7 @@ body.is-preload .wrapper.fade > .inner {
 	display: -webkit-flex;
 	display: -ms-flex;
 	display: flex;
-	background-color: #811d25;
+	background-color: #D23745;
 	cursor: default;
 	padding: 1.75em 2em;
 }
